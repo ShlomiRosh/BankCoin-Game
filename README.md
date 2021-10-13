@@ -7,7 +7,7 @@ Coin collecting game. This game consists of two levels with varying degrees of d
 ### Files:
 Here you will find mostly code files. The graphics, animation files, and packages used in this project are not included because of space limitations.
 
-<a href="https://drive.google.com/file/d/1Y-kOpWTZlW3a8o4_St_8TdD-L2oaZ4gG/view?usp=sharing"><img src="https://drive.google.com/file/d/1P89-uqmQWktZ_vMT7LUNDbtJUDMNyzPW/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Click for the video." /></a>
+<a href="https://drive.google.com/file/d/1Y-kOpWTZlW3a8o4_St_8TdD-L2oaZ4gG/view?usp=sharing">Click to see the video.</a>
 
 **Menu**
 ![](images/1.png)
