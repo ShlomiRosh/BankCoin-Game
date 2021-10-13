@@ -10,6 +10,8 @@ Here you will find mostly code files. The graphics, animation files, and package
 
 **Menu**
 ![](images/1.png)
+![](images/2.png)
+![](images/3.png)
 
 
 **Level 1**
